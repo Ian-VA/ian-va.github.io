@@ -1,0 +1,91 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Ian Atroshchenko
+    - name: Date of Birth
+      value: 2nd September 2007
+    - name: Languages
+      value: English, Russian, Spanish
+
+- title: Education
+  type: time_table
+  contents:
+    - title: BS, Computer Science
+      institution: California Institute of Technology
+      year: 2029
+    #     - Description 1.
+    #     - Description 2.
+    #     - title: Description 3.
+    #       contents:
+    #         - Sub-description 1.
+    #         - Sub-description 2.
+    # - title: Federal teaching diploma
+    #   institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+    #   year: 1900
+    #   description:
+    #     - Description 1.
+    #     - Description 2.
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Software Engineer
+      institution: Brane Technologies
+      year: 5/2025 -
+      description:
+        - Working as the main software engineer for an investor-backed high performance computing startup.
+        - Deployed AI/ML benchmarking suite for AMD Instinct accelerators and novel hardware
+        - Single-handedly developed agentic AI systems for automatic video processing, crime detection & classification, and sports broadcast analysis that serve as key products
+        # - title: Description 3.
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
+    - title: Part-Time Software Engineer / Contractor
+      institution: Rogue Avionics
+      year: 11/2024 -
+      description:
+        - Working directly with company founders to develop firmware to fulfill a seven-figure order for the US Air Force
+        - Solely developed sensor, SD card, and ADC firmware from scratch in C++ for avionics applications
+        - Solely developed I2C/SPI communication libraries
+
+    - title: Polarimetry Software Intern
+      institution: NASA Langley Research Center
+      year: 1/2024 - 5/2025
+      description:
+        - Developed data processing pipelines for Titan data from the Cassini mission in Python
+        - Wrote data visualization and analysis programs for the NASA PACE mission
+        - Revived unmaintained NASA software for use in the calculation of Stokes parameters from Cassini's polarimeter data
+        - Worked with NASA PACE mission scientists on radiative transfer software and benchmarking
+        - Developed software on NASA HPC systems
+
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/Ian-VA/CombTR">CombTR</a>
+      year: 2023-2024
+      description: A fast, accurate ensemble model for CT scan analysis that outperformed SOTA at time of development. Recipient of UCLA Brain Research Institute award.
+    - title: <a href="https://github.com/Ian-VA/titan">Titan</a>
+      year: 2024-2025
+      description: A data processing pipeline for polarimetric Titan data from the Cassini mission. Currently used by NASA PACE mission scientists. Includes lots of goodies, like revived NASA software and mathematically intensive IDL!
+
+- title: Interests
+  type: nested_list
+  contents:
+    - title: Embedded Systems
+      items:
+        - FPGA Design and Development
+        - C/C++ firmware, "Reading the protocol and writing the code"
+    - title: Machine Learning
+      items:
+        - Reinforcement Learning
+        - Object Detection
+        - Visual Large Language Models
+    - title: Quantitative Finance
+      items:
+        - Risk analysis
+        - Momentum-based strategies on equity markets
+- title: Lesser Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Bird keeping, coral keeping, drone development

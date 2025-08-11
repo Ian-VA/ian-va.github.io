@@ -1,0 +1,8 @@
+github_users:
+  - Ian-VA
+repo_description_lines_max: 2
+
+github_repos:
+  - Ian-VA/titan
+  - Ian-VA/CombTR
+  - Ian-VA/capybara-lang
