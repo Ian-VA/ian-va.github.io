@@ -29,6 +29,6 @@ mathematics and computer science.” - Edsger W. Dijkstra
 
 I'm a Caltech student majoring in CS, currently working professionally as a software engineer at two startups, [Rogue Avionics](https://rogueavionics.com/) and [Brane Technologies](https://branetechnologies.com/). I like to solve interesting problems and never run out of things to do. 
 
-My professional experience includes working on benchmarking software for the NASA PACE mission at NASA Langley Research Center, writing firmware for military avionics, and developing flagship AI products with a focus on video analysis.
+My professional experience includes working on benchmarking software for the NASA PACE mission at NASA Langley Research Center, writing firmware for avionics circuits, and developing flagship AI products with a focus on video analysis.
 
-I work best when I am given intractable problems and a new knowledge domain to explore. My interests cover everything from machine learning to embedded systems to quantitative finance. I keep my mind open and tackle problems within any domain.
+I work best when I am given intractable problems and a new knowledge domain to explore. My interests cover everything from machine learning to embedded systems to quantitative finance. I like to keep my mind open and tackle problems within any domain.
