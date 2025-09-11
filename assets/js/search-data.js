@@ -37,15 +37,15 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/news/";
               },
-            },{id: "post-the-unpragmatic-programmer",
+            },{id: "post-a-safe-guide-to-cloning-btrfs",
         
-          title: "The Unpragmatic Programmer",
+          title: "A (Safe) Guide to Cloning BTRFS",
         
-        description: "vibe coding, and Plato&#39;s allegory of the cave",
+        description: "Fail big or fail (umount) (/)home",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/death/";
+            window.location.href = "/blog/2025/btrfs/";
           
         },
       },{id: "news-i-have-joined-the-startup-rogue-avionics-as-a-part-time-embedded-software-engineer",
