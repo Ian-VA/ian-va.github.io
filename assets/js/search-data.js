@@ -57,6 +57,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-have-joined-the-startup-brane-technologies-as-a-software-engineer-focusing-on-ai-application-and-hardware-benchmarking",
           title: 'I have joined the startup Brane Technologies as a software engineer, focusing on...',
           description: "",
+          section: "News",},{id: "news-i-am-returning-to-nasa-this-summer-working-as-a-machine-learning-intern-at-the-jet-propulsion-laboratory",
+          title: 'I am returning to NASA this summer, working as a Machine Learning intern...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
